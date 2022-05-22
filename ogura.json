@@ -1,0 +1,908 @@
+{
+ "japanese": [
+  {
+   "line": "天智天皇\n秋の田の\nかりほの庵の\n苫をあらみ\nわが衣手は\n露にぬれつつ\n"
+  },
+  {
+   "line": "持統天皇\n春過ぎて\n夏来にけらし\n白妙の\n衣ほすてふ\n天の香具山\n"
+  },
+  {
+   "line": "柿本人麿\nあしびきの\n山鳥の尾の\nしだり尾の\nながながし夜を\nひとりかもねむ\n"
+  },
+  {
+   "line": "山辺赤人\n田子の浦に\n打ち出でてみれば\n白妙の\n富士の高嶺に\n雪はふりつつ\n"
+  },
+  {
+   "line": "猿丸大夫\n奥山に\n紅葉ふみわけ\n鳴く鹿の\n声きく時ぞ\n秋は悲しき\n"
+  },
+  {
+   "line": "中納言家持\nかささぎの\n渡せる橋に\n置く霜の\n白きを見れば\n夜ぞふけにける\n"
+  },
+  {
+   "line": "安倍仲麿\n天の原\nふりさけ見れば\n春日なる\n三笠の山に\n出でし月かも\n"
+  },
+  {
+   "line": "喜撰法師\nわが庵は\n都のたつみ\nしかぞすむ\n世をうぢ山と\n人はいふなり\n"
+  },
+  {
+   "line": "小野小町\n花の色は\nうつりにけりな\nいたづらに\nわが身世にふる\nながめせしまに\n"
+  },
+  {
+   "line": "蝉丸\nこれやこの\n行くも帰るも\n別れては\n知るも知らぬも\n逢坂の関\n"
+  },
+  {
+   "line": "参議篁\nわたの原\n八十島かけて\nこぎ出ぬと\n人には告げよ\nあまのつり舟\n"
+  },
+  {
+   "line": "僧正遍昭\n天つ風\n雲のかよひ路\n吹きとぢよ\n乙女のすがた\nしばしとどめむ\n"
+  },
+  {
+   "line": "陽成院\n筑波嶺の\n峰より落つる\nみなの川\n恋ぞつもりて\n淵となりぬる\n"
+  },
+  {
+   "line": "河原左大臣\nみちのくの\nしのぶもぢずり\n誰故に\n乱れそめにし\n我ならなくに\n"
+  },
+  {
+   "line": "光孝天皇\n君がため\n春の野に出でて\n若菜つむ\nわが衣手に\n雪はふりつつ\n"
+  },
+  {
+   "line": "中納言行平\n立ち別れ\nいなばの山の\n峰に生ふる\nまつとしきかば\n今かへりこむ\n"
+  },
+  {
+   "line": "在原業平朝臣\n千早ぶる\n神代もきかず\n龍田川\nからくれないに\n水くくるとは\n"
+  },
+  {
+   "line": "藤原敏行朝臣\n住の江の\n岸による波\nよるさへや\n夢の通ひ路\n人目よくらむ\n"
+  },
+  {
+   "line": "伊勢\n難波潟\nみじかき芦の\nふしのまも\nあはでこの世を\n過ぐしてよとや\n"
+  },
+  {
+   "line": "元良親王\nわびぬれば\n今はた同じ\n難波なる\n身をつくしても\n逢はむとぞ思ふ\n"
+  },
+  {
+   "line": "素性法師\n今来むと\nいひしばかりに\n長月の\n有明の月を\n待ち出でつるかな\n"
+  },
+  {
+   "line": "文屋康秀\n吹くからに\n秋の草木の\nしをるれば\nむべ山風を\nあらしといふらむ\n"
+  },
+  {
+   "line": "大江千里\n月見れば\n千々に物こそ\n悲しけれ\nわが身ひとつの\n秋にはあらねど\n"
+  },
+  {
+   "line": "菅家\nこのたびは\n幣もとりあへず\n手向山\n紅葉のにしき\n神のまにまに\n"
+  },
+  {
+   "line": "三条右大臣\n名にしおはば\n逢坂山の\nさねかづら\n人にしられで\nくるよしもがな\n"
+  },
+  {
+   "line": "貞信公\n小倉山\n峰のもみじ葉\n心あらば\n今ひとたびの\nみゆきまたなむ\n"
+  },
+  {
+   "line": "中納言兼輔\nみかの原\nわきてながるる\n泉川\nいつ見きとてか\n恋しかるらむ\n"
+  },
+  {
+   "line": "源宗于朝臣\n山里は\n冬ぞさびしさ\nまさりける\n人めも草も\nかれぬとおもへば\n"
+  },
+  {
+   "line": "凡河内躬恒\n心あてに\n折らばや折らむ\n初霜の\nおきまどはせる\n白菊の花\n"
+  },
+  {
+   "line": "壬生忠岑\n有明の\nつれなくみえし\n別れより\n暁ばかり\nうきものはなし\n"
+  },
+  {
+   "line": "坂上是則\n朝ぼらけ\n有明の月と\nみるまでに\n吉野の里に\nふれる白雪\n"
+  },
+  {
+   "line": "春道列樹\n山川に\n風のかけたる\nしがらみは\n流れもあへぬ\n紅葉なりけり\n"
+  },
+  {
+   "line": "紀友則\n久方の\n光のどけき\n春の日に\nしづ心なく\n花のちるらむ\n"
+  },
+  {
+   "line": "藤原興風\n誰をかも\n知る人にせむ\n高砂の\n松もむかしの\n友ならなくに\n"
+  },
+  {
+   "line": "紀貫之\n人はいさ\n心も知らず\nふるさとは\n花ぞむかしの\n香に匂ひける\n"
+  },
+  {
+   "line": "清原深養父\n夏の夜は\nまだ宵ながら\n明けぬるを\n雲のいづくに\n月やどるらむ\n"
+  },
+  {
+   "line": "文屋朝康\n白露を\n風のふきしく\n秋の野は\nつらぬきとめぬ\n玉ぞちりける\n"
+  },
+  {
+   "line": "右近\n忘らるる\n身をば思はず\n誓ひてし\n人の命の\n惜しくもあるかな\n"
+  },
+  {
+   "line": "参議等\n浅茅生の\n小野の篠原\n忍ぶれど\nあまりてなどか\n人の恋しき\n"
+  },
+  {
+   "line": "平兼盛\n忍ぶれど\n色に出でにけり\nわが恋は\n物や思ふと\n人の問ふまで\n"
+  },
+  {
+   "line": "壬生忠見\n恋すてふ\n我が名はまだき\n立ちにけり\n人しれずこそ\n思ひそめしか\n"
+  },
+  {
+   "line": "清原元輔\nちぎりきな\nかたみに袖を\nしぼりつつ\n末の松山\n波こさじとは\n"
+  },
+  {
+   "line": "権中納言敦忠\n逢ひ見ての\n後の心に\nくらぶれば\nむかしは物を\n思はざりけり\n"
+  },
+  {
+   "line": "中納言朝忠\n逢ふことの\n絶えてしなくは\n中々に\n人をも身をも\n恨みざらまし\n"
+  },
+  {
+   "line": "謙徳公\nあはれとも\nいふべき人は\n思ほえで\n身のいたづらに\nなりぬべきかな\n"
+  },
+  {
+   "line": "曽禰好忠\n由良のとを\nわたる舟人\nかぢをたえ\n行く方もしらぬ\n恋の道かな\n"
+  },
+  {
+   "line": "恵慶法師\n八重むぐら\nしげれる宿の\nさびしきに\n人こそ見えね\n秋は来にけり\n"
+  },
+  {
+   "line": "源重之\n風をいたみ\n岩うつ波の\nおのれのみ\nくだけて物を\nおもふ頃かな\n"
+  },
+  {
+   "line": "大中臣能宣朝臣\nみかき守\n衛士のたく火の\n夜はもえ\n昼は消えつつ\n物をこそおもへ\n"
+  },
+  {
+   "line": "藤原義孝\n君がため\n惜しからざりし\n命さへ\nながくもがなと\nおもひけるかな\n"
+  },
+  {
+   "line": "藤原実方朝臣\nかくとだに\nえやはいぶきの\nさしも草\nさしも知らじな\nもゆる思ひを\n"
+  },
+  {
+   "line": "藤原道信朝臣\n明けぬれば\n暮るるものとは\n知りながら\nなをうらめしき\nあさぼらけかな\n"
+  },
+  {
+   "line": "右大将道綱母\nなげきつつ\nひとりぬる夜の\n明くる間は\nいかに久しき\nものとかは知る\n"
+  },
+  {
+   "line": "儀同三司母\n忘れじの\n行末までは\n難ければ\n今日を限りの\n命ともがな\n"
+  },
+  {
+   "line": "大納言公任\n滝の音は\n絶えて久しく\nなりぬれど\n名こそ流れて\nなほ聞えけれ\n"
+  },
+  {
+   "line": "和泉式部\nあらざらむ\nこの世の外の\n思ひ出に\n今ひとたびの\n逢ふこともがな\n"
+  },
+  {
+   "line": "紫式部\nめぐりあひて\n見しやそれとも\nわかぬ間に\n雲がくれにし\n夜半の月かげ\n"
+  },
+  {
+   "line": "大弐三位\nありま山\n猪名の笹原\n風吹けば\nいでそよ人を\n忘れやはする\n"
+  },
+  {
+   "line": "赤染衛門\nやすらはで\n寝なまし物を\n小夜更けて\nかたぶくまでの\n月を見しかな\n"
+  },
+  {
+   "line": "小式部内侍\n大江山\nいく野の道の\nとほければ\nまだふみも見ず\n天の橋立\n"
+  },
+  {
+   "line": "伊勢大輔\nいにしへの\n奈良の都の\n八重桜\n今日九重に\n匂ひぬるかな\n"
+  },
+  {
+   "line": "清少納言\n夜をこめて\n鳥の空音は\nはかるとも\nよにあふさかの\n関はゆるさじ\n"
+  },
+  {
+   "line": "左京大夫道雅\n今はただ\n思ひ絶えなむ\nとばかりを\n人づてならで\nいふよしもがな\n"
+  },
+  {
+   "line": "権中納言定頼\n朝ぼらけ\n宇治の川ぎり\nたえだえに\nあらはれわたる\nぜぜの網代木\n"
+  },
+  {
+   "line": "相模\n恨みわび\nほさぬ袖だに\nあるものを\n恋に朽ちなん\n名こそ惜しけれ\n"
+  },
+  {
+   "line": "大僧正行尊\nもろともに\n哀れと思へ\n山桜\n花より外に\n知る人もなし\n"
+  },
+  {
+   "line": "周防内侍\n春の夜の\n夢ばかりなる\n手枕に\nかひなく立たむ\n名こそ惜しけれ\n"
+  },
+  {
+   "line": "三条院\n心にも\nあらで浮世に\nながらへば\n恋しかるべき\n夜半の月かな\n"
+  },
+  {
+   "line": "能因法師\nあらし吹く\n三室の山の\nもみぢ葉は\n龍田の川の\nにしきなりけり\n"
+  },
+  {
+   "line": "良暹法師\n寂しさに\n宿を立出て\nながむれば\nいづこもおなじ\n秋の夕暮\n"
+  },
+  {
+   "line": "大納言経信\n夕されば\n門田の稲葉\nおとづれて\nあしのまろやに\n秋風ぞふく\n"
+  },
+  {
+   "line": "祐子内親王家紀伊\n音にきく\n高師の浜の\nあだ浪は\nかけじや袖の\nぬれもこそすれ\n"
+  },
+  {
+   "line": "権中納言匡房\n高砂の\n尾の上の桜\n咲きにけり\n外山の霞\nたたずもあらなん\n"
+  },
+  {
+   "line": "源俊頼朝臣\nうかりける\n人をはつせの\n山おろしよ\nはげしかれとは\n祈らぬものを\n"
+  },
+  {
+   "line": "藤原基俊\n契りをきし\nさせもが露を\n命にて\nあはれことしの\n秋もいぬめり\n"
+  },
+  {
+   "line": "法性寺入道関白太政大臣\nわたの原\nこぎ出でて見れば\n久方の\n雲井にまよふ\nおきつしらなみ\n"
+  },
+  {
+   "line": "崇徳院御製\n瀬をはやみ\n岩にせかるる\n滝川の\nわれても末に\n逢はむとぞ思ふ\n"
+  },
+  {
+   "line": "源兼昌\n淡路島\nかよふ千鳥の\nなく声に\nいくよねざめぬ\nすまの関守\n"
+  },
+  {
+   "line": "左京大夫顕輔\n秋風に\nたなびく雲の\nたえまより\nもれ出づる月の\nかげのさやけさ\n"
+  },
+  {
+   "line": "待賢門院堀河\n長からむ\n心もしらず\n黒髪の\nみだれてけさは\n物をこそ思へ\n"
+  },
+  {
+   "line": "後徳大寺左大臣\nほととぎす\n鳴きつる方を\n眺むれば\nただ有明の\n月ぞのこれる\n"
+  },
+  {
+   "line": "道因法師\n思ひわび\nさても命は\nあるものを\n憂きに堪へぬは\nなみだなりけり\n"
+  },
+  {
+   "line": "皇太后宮大夫俊成\n世の中よ\n道こそなけれ\n思ひ入る\n山のおくにも\n鹿ぞ鳴くなる\n"
+  },
+  {
+   "line": "藤原清輔朝臣\nながらへば\nまたこの頃や\nしのばれむ\n憂しと見し世ぞ\n今は恋しき\n"
+  },
+  {
+   "line": "俊恵法師\n夜もすがら\n物思ふ頃は\n明けやらぬ\nねやのひまさへ\nつれなかりけり\n"
+  },
+  {
+   "line": "西行法師\nなげけとて\n月やは物を\n思はする\nかこちがほなる\nわがなみだかな\n"
+  },
+  {
+   "line": "寂蓮法師\nむらさめの\n露もまだひぬ\nまきの葉に\n霧立ちのぼる\n秋の夕暮\n"
+  },
+  {
+   "line": "皇嘉門院別当\n難波江の\n芦のかりねの\n一夜ゆへ\n身をつくしてや\n恋わたるべき\n"
+  },
+  {
+   "line": "式子内親王\n玉の緒よ\n絶えなば絶えね\nながらへば\nしのぶることの\nよはりもぞする\n"
+  },
+  {
+   "line": "殷富門院大輔\n見せばやな\n雄島のあまの\n袖だにも\nぬれにぞぬれし\n色はかはらず\n"
+  },
+  {
+   "line": "後京極摂政太政大臣\nきりぎりす\n鳴くや霜夜の\nさむしろに\n衣かたしき\nひとりかも寝む\n"
+  },
+  {
+   "line": "二条院讃岐\nわが袖は\n潮干に見えぬ\n沖の石の\n人こそしらね\nかはくまもなし\n"
+  },
+  {
+   "line": "鎌倉右大臣\n世の中は\nつねにもがもな\nなぎさこぐ\nあまの小舟の\n綱手かなしも\n"
+  },
+  {
+   "line": "参議雅経\nみよし野の\n山の秋風\nさよふけて\nふるさとさむく\n衣うつなり\n"
+  },
+  {
+   "line": "前大僧正慈円\nおほけなく\nうき世の民に\nおほふかな\nわがたつそまに\n墨染の袖\n"
+  },
+  {
+   "line": "入道前太政大臣\n花さそふ\nあらしの庭の\n雪ならで\nふりゆくものは\nわが身なりけり\n"
+  },
+  {
+   "line": "権中納言定家\nこぬ人を\nまつほの浦の\n夕なぎに\nやくやもしほの\n身もこがれつつ\n"
+  },
+  {
+   "line": "従二位家隆\n風そよぐ\nならの小川の\n夕ぐれは\nみそぎぞ夏の\nしるしなりける\n"
+  },
+  {
+   "line": "後鳥羽院御製\n人も惜し\n人も恨めし\nあぢきなく\n世を思ふゆゑに\nもの思ふ身は\n"
+  },
+  {
+   "line": "順徳院御製\n百敷や\n古き軒端の\nしのぶにも\nなほあまりある\nむかしなりけり\n"
+  }
+ ],
+ "romaji": [
+  {
+   "line": "Tenchi Tenno\nAki no ta no\nKariho no io no\nToma o arami\nWaga koromode wa\nTsuyu ni nure tsutsu\n"
+  },
+  {
+   "line": "Jito Tenno\nHaru sugite\nNatsu ki ni kerashi\nShirotae no\nKoromo hosu cho\nAma no Kaguyama\n"
+  },
+  {
+   "line": "Kakinomoto no Hitomaro\nAshibiki no\nYamadori no o no\nShidari o no\nNaganagashi yo o\nHitori ka mo nen\n"
+  },
+  {
+   "line": "Yamabe no Akahito\nTago no Ura ni\nUchi idete mireba\nShirotae no\nFuji no takane ni\nYuki wa furi tsutsu\n"
+  },
+  {
+   "line": "Sarumaru Dayu\nOkuyama ni\nMomiji fumiwake\nNaku shika no\nKoe kiku toki zo\nAki wa kanashiki\n"
+  },
+  {
+   "line": "Chunagon Yakamochi\nKasasagi no\nWataseru hashi ni\nOku shimo no\nShiroki o mireba\nYo zo fuke ni keru\n"
+  },
+  {
+   "line": "Abe no Nakamaro\nAma no hara\nFurisake mireba\nKasuga naru\nMikasa no yama ni\nIdeshi tsuki kamo\n"
+  },
+  {
+   "line": "Kisen Hoshi\nWaga io wa\nMiyako no tatsumi\nShika zo sumu\nYo o Ujiyama to\nHito wa iu nari\n"
+  },
+  {
+   "line": "Ono no Komachi\nHana no iro wa\nUtsuri ni keri na\nItazura ni\nWaga mi yo ni furu\nNagame seshi ma ni\n"
+  },
+  {
+   "line": "Semimaru\nKore ya kono\nYuku mo kaeru mo\nWakarete wa\nShiru mo shiranu mo\nOsaka no seki\n"
+  },
+  {
+   "line": "Sangi Takamura\nWata no hara\nYasoshima kakete\nKogi idenu to\nHito ni wa tsugeyo\nAma no tsuri bune\n"
+  },
+  {
+   "line": "Sojo Henjo\nAma tsu kaze\nKumo no kayoiji\nFuki toji yo\nOtome no sugata\nShibashi todomen\n"
+  },
+  {
+   "line": "Yozei In\nTsukuba ne no\nMine yori otsuru\nMinano-gawa\nKoi zo tsumorite\nFuchi to nari nuru\n"
+  },
+  {
+   "line": "Kawara no Sadaijin\nMichinoku no\nShinobu moji-zuri\nTare yue ni\nMidare some ni shi\nWare naranaku ni\n"
+  },
+  {
+   "line": "Koko Tenno\nKimi ga tame\nHaru no no ni idete\nWakana tsumu\nWaga koromode ni\nYuki wa furi tsutsu\n"
+  },
+  {
+   "line": "Chunagon Yukihira\nTachi wakare\nInaba no yama no\nMine ni oru\nMatsu to shi kikaba\nIma kaeri kon\n"
+  },
+  {
+   "line": "Ariwara no Narihira Ason\nChihayaburu\nKamiyo mo kikazu\nTatsuta-gawa\nKara kurenai ni\nMizu kukuru to wa\n"
+  },
+  {
+   "line": "Fujiwara no Toshiyuki Ason\nSumi no e no\nKishi ni yoru nami\nYoru sae ya\nYume no kayoi ji\nHito me yoku ran\n"
+  },
+  {
+   "line": "Ise\nNaniwa gata\nMijikaki ashi no\nFushi no ma mo\nAwade kono yo o\nSugushite yo to ya\n"
+  },
+  {
+   "line": "Motoyoshi Shinno\nWabi nureba\nIma hata onaji\nNaniwa naru\nMi o tsukushite mo\nAwan to zo omou\n"
+  },
+  {
+   "line": "Sosei Hoshi\nIma kon to\nIishi bakari ni\nNagatsuki no\nAriake no tsuki o\nMachi idetsuru kana\n"
+  },
+  {
+   "line": "Fun'ya no Yasuhide\nFuku kara ni\nAki no kusaki no\nShiorureba\nMube yama kaze o\nArashi to iuran\n"
+  },
+  {
+   "line": "Oe no Chisato\nTsuki mireba\nChiji ni mono koso\nKanashi kere\nWaga mi hitotsu no\nAki ni wa aranedo\n"
+  },
+  {
+   "line": "Kan Ke\nKono tabi wa\nNusa mo toriaezu\nTamukeyama\nMomiji no nishiki\nKami no mani mani\n"
+  },
+  {
+   "line": "Sanjo Udaijin\nNa ni shi owaba\nOsakayama no\nSanekazura\nHito ni shirarede\nKuru yoshi mo gana\n"
+  },
+  {
+   "line": "Teishin Ko\nOgurayama\nMine no momijiba\nKokoro araba\nIma hitotabi no\nMiyuki matanan\n"
+  },
+  {
+   "line": "Chunagon Kanesuke\nMika no Hara\nWakite nagaruru\nIzumi-gawa\nItsu mi kitote ka\nKoishi karuran\n"
+  },
+  {
+   "line": "Minamoto no Muneyuki Ason\nYama-zato wa\nFuyu zo sabishisa\nMasari keru\nHitome mo kusa mo\nKarenu to omoeba\n"
+  },
+  {
+   "line": "Oshikochi no Mitsune\nKokoroate ni\nOrabaya oran\nHatsushimo no\nOki madowaseru\nShiragiku no hana\n"
+  },
+  {
+   "line": "Mibu no Tadamine\nAriake no\nTsurenaku mieshi\nWakare yori\nAkatsuki bakari\nUki mono wa nashi\n"
+  },
+  {
+   "line": "Sakanoue no Korenori\nAsaborake\nAriake no tsuki to\nMiru made ni\nYoshino no sato ni\nFureru shirayuki\n"
+  },
+  {
+   "line": "Harumichi no Tsuraki\nYama kawa ni\nKaze no kaketaru\nShigarami wa\nNagare mo aenu\nMomiji nari keri\n"
+  },
+  {
+   "line": "Ki no Tomonori\nHisakata no\nHikari nodokeki\nHaru no hi ni\nShizu-gokoro naku\nHana no chiruran\n"
+  },
+  {
+   "line": "Fujiwara no Okikaze\nTare o ka mo\nShiru hito ni sen\nTakasago no\nMatsu mo mukashi no\nTomo nara naku ni\n"
+  },
+  {
+   "line": "Ki no Tsurayuki\nHito wa isa\nKokoro mo shirazu\nFurusato wa\nHana zo mukashi no\nKa ni nioi keru\n"
+  },
+  {
+   "line": "Kiyohara no Fukayabu\nNatsu no yo wa\nMada yoi nagara\nAkenuru o\nKumo no izuko ni\nTsuki yadoruran\n"
+  },
+  {
+   "line": "Fun'ya no Asayasu\nShiratsuyu o\nKaze no fukishiku\nAki no no wa\nTsuranuki tomenu\nTama zo chiri keru\n"
+  },
+  {
+   "line": "Ukon\nWasuraruru\nMi o ba omowazu\nChikaite shi\nHito no inochi no\nOshiku mo aru kana\n"
+  },
+  {
+   "line": "Sangi Hitoshi\nAsajiu no\nOno no shinohara\nShinoburedo\nAmarite nado ka\nHito no koishiki\n"
+  },
+  {
+   "line": "Taira no Kanemori\nShinoburedo\nIro ni ide ni keri\nWaga koi wa\nMono ya omou to\nHito no tou made\n"
+  },
+  {
+   "line": "Mibu no Tadami\nKoisu cho\nWaga na wa madaki\nTachi ni keri\nHito shirezu koso\nOmoi someshi ka\n"
+  },
+  {
+   "line": "Kiyohara no Motosuke\nChigiriki na\nKatami ni sode o\nShibori tsutsu\nSue no Matsuyama\nNami kosaji to wa\n"
+  },
+  {
+   "line": "Gon Chunagon Atsutada\nAi mite no\nNochi no kokoro ni\nKurabureba\nMukashi wa mono o\nOmowazari keri\n"
+  },
+  {
+   "line": "Chunagon Asatada\nAu koto no\nTaete shi nakuwa\nNakanaka ni\nHito o mo mi o mo\nUrami zaramashi\n"
+  },
+  {
+   "line": "Kentoku Ko\nAware to mo\nIu beki hito wa\nOmooede\nMi no itazura ni\nNarinu beki kana\n"
+  },
+  {
+   "line": "Sone no Yoshitada\nYura no to o\nWataru funabito\nKaji o tae\nYukue mo shiranu\nKoi no michi kana\n"
+  },
+  {
+   "line": "Egyo Hoshi\nYaemugura\nShigereru yado no\nSabishiki ni\nHito koso miene\nAki wa ki ni keri\n"
+  },
+  {
+   "line": "Minamoto no Shigeyuki\nKaze o itami\nIwa utsu nami no\nOnore nomi\nKudakete mono o\nOmou koro kana\n"
+  },
+  {
+   "line": "Onakatomi no Yoshinobu Ason\nMikakimori\nEji no taku hi no\nYoru wa moe\nHiru wa kie tsutsu\nMono o koso omoe\n"
+  },
+  {
+   "line": "Fujiwara no Yoshitaka\nKimi ga tame\nOshi karazarishi\nInochi sae\nNagaku mo gana to\nOmoi keru kana\n"
+  },
+  {
+   "line": "Fujiwara no Sanekata Ason\nKaku to dani\nEyawa ibuki no\nSashimogusa\nSashimo shiraji na\nMoyuru omoi o\n"
+  },
+  {
+   "line": "Fujiwara no Michinobu Ason\nAkenureba\nKururu mono to wa\nShiri nagara\nNao urameshiki\nAsaborake kana\n"
+  },
+  {
+   "line": "Udaisho Michitsuna no Haha\nNageki tsutsu\nHitori nuru yo no\nAkuru ma wa\nIkani hisashiki\nMono to ka wa shiru\n"
+  },
+  {
+   "line": "Gido Sanshi no Haha\nWasureji no\nYukusue made wa\nKatakereba\nKyo o kagiri no\nInochi to mo gana\n"
+  },
+  {
+   "line": "Dainagon Kinto\nTaki no oto wa\nTaete hisashiku\nNarinuredo\nNa koso nagarete\nNao kikoe kere\n"
+  },
+  {
+   "line": "Izumi Shikibu\nArazaran\nKono yo no hoka no\nOmoide ni\nIma hitotabi no\nAu koto mo gana\n"
+  },
+  {
+   "line": "Murasaki Shikibu\nMeguri aite\nMishi ya sore to mo\nWakanu ma ni\nKumo-gakure ni shi\nYowa no tsuki kage\n"
+  },
+  {
+   "line": "Daini no Sanmi\nArimayama\nIna no sasawara\nKaze fukeba\nIde soyo hito o\nWasure ya wa suru\n"
+  },
+  {
+   "line": "Akazome Emon\nYasurawade\nNenamashi mono o\nSayo fukete\nKatabuku made no\nTsuki o mishi kana\n"
+  },
+  {
+   "line": "Koshikibu no Naishi\nOeyama\nIkuno no michi no\nTo kereba\nMada fumi mo mizu\nAma no Hashidate\n"
+  },
+  {
+   "line": "Ise no Osuke\nInishie no\nNara no miyako no\nYae-zakura\nKyo kokonoe ni\nNioi nuru kana\n"
+  },
+  {
+   "line": "Sei Shonagon\nYo o komete\nTori no sorane wa\nHakaru tomo\nYo ni Osaka no\nSeki wa yurusaji\n"
+  },
+  {
+   "line": "Sakyo no Daibu Michimasa\nIma wa tada\nOmoi taenan\nTo bakari wo\nHito-zute nara de\nIu yoshi mo gana\n"
+  },
+  {
+   "line": "GonChunagon Sadayori\nAsaborake\nUji no kawagiri\nTae-dae ni\nAraware wataru\nZeze no ajirogi\n"
+  },
+  {
+   "line": "Sagami\nUrami wabi\nHosanu sode da ni\nAru mono o\nKoi ni kuchinan\nNa koso oshi kere\n"
+  },
+  {
+   "line": "Daisojo Gyoson\nMorotomo ni\nAware to omoe\nYama-zakura\nHana yori hoka ni\nShiru hito mo nashi\n"
+  },
+  {
+   "line": "Suo no Naishi\nHaru no yo no\nYume bakari naru\nTamakura ni\nKainaku tatan\nNa koso oshi kere\n"
+  },
+  {
+   "line": "Sanjo In\nKokoro ni mo\nArade ukiyo ni\nNagaraeba\nKoishikaru beki\nYowa no tsuki kana\n"
+  },
+  {
+   "line": "Noin Hoshi\nArashi fuku\nMimuro no yama no\nMomijiba wa\nTatsuta no kawa no\nNishiki nari keri\n"
+  },
+  {
+   "line": "Ryosen Hoshi\nSabishisa ni\nYado o tachi idete\nNagamureba\nIzuko mo onaji\nAki no yugure\n"
+  },
+  {
+   "line": "Dainagon Tsunenobu\nYu sareba\nKadota no inaba\nOtozurete\nAshi no maroya ni\nAkikaze zo fuku\n"
+  },
+  {
+   "line": "Yushi Naishinno-ke no Kii\nOto ni kiku\nTakashi no hama no\nAdanami wa\nKakeji ya sode no\nNure mo koso sure\n"
+  },
+  {
+   "line": "GonChunagon Masafusa\nTakasago no\nOnoe no sakura\nSaki ni keri\nToyama no kasumi\nTatazu mo aranan\n"
+  },
+  {
+   "line": "Minamoto no Toshiyori Ason\nUkari keru\nHito o Hatsuse no\nYama oroshiyo\nHageshikare to wa\nInoranu mono o\n"
+  },
+  {
+   "line": "Fujiwara no Mototoshi\nChigiri okishi\nSasemo ga tsuyu o\nInochi ni te\nAware kotoshi no\nAki mo inumeri\n"
+  },
+  {
+   "line": "Hoshoji no Nyudo Kanpaku Dajodaijin\nWata no hara\nKogi idete mireba\nHisakata no\nKumoi ni mayoo\nOkitsu shiranami\n"
+  },
+  {
+   "line": "Sutoku In\nSe o hayami\nIwa ni sekaruru\nTakigawa no\nWarete mo sue ni\nAwan to zo omou\n"
+  },
+  {
+   "line": "Minamoto no Kanemasa\nAwaji shima\nKayou chidori no\nNaku koe ni\nIkuyo nezamenu\nSuma no sekimori\n"
+  },
+  {
+   "line": "Sakyo no Daibu Akisuke\nAkikaze ni\nTanabiku kumo no\nTaema yori\nMore izuru tsuki no\nKage no sayakesa\n"
+  },
+  {
+   "line": "Taiken Moin no Horikawa\nNagakaran\nKokoro mo shirazu\nKurokami no\nMidarete kesa wa\nMono o koso omoe\n"
+  },
+  {
+   "line": "Go Tokudaiji no Sadaijin\nHototogisu\nNakitsuru kata o\nNagamureba\nTada ariake no\nTsuki zo nokoreru\n"
+  },
+  {
+   "line": "Doin Hoshi\nOmoi wabi\nSatemo inochi wa\nAru mono o\nUki ni taenu wa\nNamida nari keri\n"
+  },
+  {
+   "line": "Kotaigogu no Daibu Toshinari\nYo no naka yo\nMichi koso nakere\nOmoi iru\nYama no oku ni mo\nShika zo naku naru\n"
+  },
+  {
+   "line": "Fujiwara no Kiyosuke Ason\nNagaraeba\nMata konogoro ya\nShinobaren\nUshi to mishi yo zo\nIma wa koishiki\n"
+  },
+  {
+   "line": "Shun'e Hoshi\nYo mo sugara\nMono omou koro wa\nAke yaranu\nNeya no hima sae\nTsure nakari keri\n"
+  },
+  {
+   "line": "Saigyo Hoshi\nNageke tote\nTsuki ya wa mono o\nOmowasuru\nKakochi gao naru\nWaga namida kana\n"
+  },
+  {
+   "line": "Jakuren Hoshi\nMurasame no\nTsuyu mo mada hinu\nMaki no ha ni\nKiri tachinoboru\nAki no yugure\n"
+  },
+  {
+   "line": "Koka Moin no Betto\nNaniwae no\nAshi no karine no\nHitoyo yue\nMi o tsukushite ya\nKoi wataru beki\n"
+  },
+  {
+   "line": "Shokushi Naishinno\nTama no o yo\nTaenaba taene\nNagaraeba\nShinoburu koto no\nYowari mo zo suru\n"
+  },
+  {
+   "line": "Inpu Moin no Taifu\nMisebaya na\nOjima no ama no\nSode dani mo\nNure ni zo nureshi\nIro wa kawarazu\n"
+  },
+  {
+   "line": "Go Kyogoku no Sessho Dajodaijin\nKirigirisu\nNaku ya shimo yo no\nSamushiro ni\nKoromo katashiki\nHitori kamo nen\n"
+  },
+  {
+   "line": "Nijo In no Sanuki\nWaga sode wa\nShiohi ni mienu\nOki no ishi no\nHito koso shirane\nKawaku ma mo nashi\n"
+  },
+  {
+   "line": "Kamakura no Udaijin\nYo no naka wa\nTsune ni mo ga mo na\nNagisa kogu\nAma no obune no\nTsuna de kanashi mo\n"
+  },
+  {
+   "line": "Sangi Masatsune\nMiyoshino no\nYama no akikaze\nSayo fukete\nFurusato samuku\nKoromo utsu nari\n"
+  },
+  {
+   "line": "Saki no Daisojo Jien\nOkenaku\nUkiyo no tami ni\nOu kana\nWaga tatsu soma ni\nSumizome no sode\n"
+  },
+  {
+   "line": "Nyudo Saki no Dajodaijin\nHana sasou\nArashi no niwa no\nYuki nara de\nFuri yuku mono wa\nWaga mi nari keri\n"
+  },
+  {
+   "line": "GonChunagon Sadaie\nKonu hito o\nMatsuho no ura no\nYunagi ni\nYaku ya moshio no\nMi mo kogare tsutsu\n"
+  },
+  {
+   "line": "Junii Ietaka\nKaze soyogu\nNara no ogawa no\nYugure wa\nMisogi zo natsu no\nShirushi nari keru\n"
+  },
+  {
+   "line": "Gotoba In\nHito mo oshi\nHito mo urameshi\nAjiki naku\nYo o omou yue ni\nMono omou mi wa\n"
+  },
+  {
+   "line": "Juntoku In\nMomoshiki ya\nFuruki nokiba no\nShinobu ni mo\nNao amari aru\nMukashi nari keri\n"
+  }
+ ],
+ "english": [
+  {
+   "line": "Emperor Tenchi\nCoarse the rush-mat roof\nSheltering the harvest-hut\nOf the autumn rice-field;\nAnd my sleeves are growing wet\nWith the moisture dripping through.\n"
+  },
+  {
+   "line": "Empress Jito\nThe spring has passed\nAnd the summer come again;\nFor the silk-white robes,\nSo they say, are spread to dry\nOn the \"Mount of Heaven's Perfume.\"\n"
+  },
+  {
+   "line": "Kakinomoto no Hitomaro\nOh, the foot-drawn trail\nOf the mountain-pheasant's tail\nDrooped like down-curved branch!\nThrough this long, long-dragging night\nMust I lie in bed alone?\n"
+  },
+  {
+   "line": "Yamabe no Akahito\nWhen I take the path\nTo Tago's coast, I see\nPerfect whiteness laid\nOn Mount Fuji's lofty peak\nBy the drift of falling snow.\n"
+  },
+  {
+   "line": "Sarumaru\nIn the mountain depths,\nTreading through the crimson leaves,\nThe wandering stag calls.\nWhen I hear the lonely cry,\nSad--how sad!--the autumn is.\n"
+  },
+  {
+   "line": "Otomo no Yakamochi\nIf I see that bridge\nThat is spanned by flights of magpies\nAcross the arc of heaven\nMade white with a deep-laid frost,\nThen the night is almost past.\n"
+  },
+  {
+   "line": "Abe no Nakamaro\nWhen I look up at\nThe wide-stretched plain of heaven,\nIs the moon the same\nThat rose on Mount Mikasa\nIn the land of Kasuga?\n"
+  },
+  {
+   "line": "The Monk Kisen\nMy lowly hut is\nSoutheast from the capital.\nThus I choose to live.\nAnd the world in which I live\nMen have named a \"Mount of Gloom.\"\n"
+  },
+  {
+   "line": "Ono no Komachi\nColor of the flower\nHas already faded away,\nWhile in idle thoughts\nMy life passes vainly by,\nAs I watch the long rains fall.\n"
+  },
+  {
+   "line": "Semimaru\nTruly, this is where\nTravelers who go or come\nOver parting ways--\nFriends or strangers--all must meet:\nThe gate of \"Meeting Hill.\"\n"
+  },
+  {
+   "line": "Ono no Takamura\nOver the wide sea\nTowards its many distant isles\nMy ship sets sail.\nWill the fishing boats thronged here\nProclaim my journey to the world?\n"
+  },
+  {
+   "line": "The Monk Henjo\nLet the winds of heaven\nBlow through the paths among the clouds\nAnd close their gates.\nThen for a while I could detain\nThese messengers in maiden form.\n"
+  },
+  {
+   "line": "Emperor Yozei\nFrom Tsukuba's peak\nFalling waters have become\nMina's still, full flow:\nSo my love has grown to be\nLike the river's quiet deeps.\n"
+  },
+  {
+   "line": "Minamoto no Toru\nLike Michinoku prints\nOf the tangled leaves of ferns,\nIt is because of you\nThat I have become confused;\nBut my love for you remains.\n"
+  },
+  {
+   "line": "Emperor Koko\nIt is for your sake\nThat I walk the fields in spring,\nGathering green herbs,\nWhile my garment's hanging sleeves\nAre speckled with falling snow.\n"
+  },
+  {
+   "line": "Ariwara no Yukihira\nThough we are parted,\nIf on Mount Inaba's peak\nI should hear the sound\nOf the pine trees growing there,\nI'll come back again to you.\n"
+  },
+  {
+   "line": "Ariwara no Narihira\nEven when the gods\nHeld sway in the ancient days,\nI have never heard\nThat water gleamed with autumn red\nAs it does in Tatta's stream\n"
+  },
+  {
+   "line": "Fujiwara no Toshiyuki\nThe waves are gathered\nOn the shore of Sumi Bay,\nAnd in the gathered night,\nWhen in dreams I go to you,\nI hide from people's eyes.\n"
+  },
+  {
+   "line": "Lady Ise\nEven for a time\nShort as a piece of the reeds\nIn Naniwa's marsh,\nWe must never meet again:\nIs this what you are asking me?\n"
+  },
+  {
+   "line": "Prince Motoyoshi\nIn this dire distress\nMy life is meaningless.\nSo we must meet now,\nEven though it costs my life\nIn the Bay of Naniwa.\n"
+  },
+  {
+   "line": "The Monk Sosei\nJust because she said,\n\"In a moment I will come,\"\nI've awaited her\nUntil the moon of daybreak,\nIn the long month, has appeared.\n"
+  },
+  {
+   "line": "Fun'ya no Yasuhide\nIt is by its breath\nThat autumn's leaves of trees and grass\nAre wasted and driven.\nSo they call this mountain wind\nThe wild one, the destroyer.\n"
+  },
+  {
+   "line": "Oe no Chisato\nAs I view the moon,\nMany things come into my mind,\nAnd my thoughts are sad;\nYet it's not for me alone,\nThat the autumn time has come.\n"
+  },
+  {
+   "line": "Sugawara no Michizane\nAt the present time,\nSince I could bring no offering,\nSee Mount Tamuke!\nHere are brocades of red leaves,\nAs a tribute to the gods.\n"
+  },
+  {
+   "line": "Fujiwara no Sadakata\nIf your line is ue,\nTrailing vine of \"Meeting Hill,\"\nIsn't there some way,\nHidden from people's gaze,\nThat you can draw her to my side?\n"
+  },
+  {
+   "line": "Fujiwara no Tadahira\nIf the maple leaves\nOn Ogura mountain\nCould only have hearts,\nThey would longingly await\nThe emperor's pilgrimage.\n"
+  },
+  {
+   "line": "Fujiwara no Kanesuke\nOver Mika's plain,\nGushing forth and flowing free,\nIs Izumi's stream.\nI do not know if we have met:\nWhy, then, do I long for her?\n"
+  },
+  {
+   "line": "Minamoto no Muneyuki\nWinter loneliness\nIn a mountain village grows\nOnly deeper, when\nGuests are gone, and leaves and grass\nAre withered: troubling thoughts.\n"
+  },
+  {
+   "line": "Oshikochi no Mitsune\nIf it were my wish\nTo pick the white chrysanthemums,\nPuzzled by the frost\nOf the early autumn time,\nI by chance might pluck the flower.\n"
+  },
+  {
+   "line": "Mibu no Tadamine\nLike the morning moon,\nCold, unpitying was my love.\nAnd since we parted,\nI dislike nothing so much\nAs the breaking light of day.\n"
+  },
+  {
+   "line": "Sakanoue no Korenori\nAt the break of day,\nJust as though the morning moon\nLightened the dim scene,\nYoshino's village lay\nIn a haze of falling snow.\n"
+  },
+  {
+   "line": "Harumichi no Tsuraki\nIn a mountain stream\nThere is a wattled barrier\nBuilt by the busy wind.\nYet it's only maple leaves,\nPowerless to flow away.\n"
+  },
+  {
+   "line": "Ki no Tomonori\nIn the peaceful light\nOf the ever-shining sun\nIn the days of spring,\nWhy do the cherry's new-blown blooms\nScatter like restless thoughts?\n"
+  },
+  {
+   "line": "Fujiwara no Okikaze\nWho is still alive\nWhen I have grown so old\nThat I can call my friends?\nEven Takasago's pines\nNo longer offer comfort.\n"
+  },
+  {
+   "line": "Ki no Tsurayuki\nThe depths of the hearts\nOf humankind cannot be known.\nBut in my birthplace\nThe plum blossoms smell the same\nAs in the years gone by.\n"
+  },
+  {
+   "line": "Kiyohara no Fukayabu\nIn the summer night\nThe evening still seems present,\nBut the dawn is here.\nTo what region of the clouds\nHas the wandering moon come home?\n"
+  },
+  {
+   "line": "Bun'ya no Asayasu\nIn the autumn fields\nWhen the heedless wind blows by\nOver the pure-white dew,\nHow the myriad unstrung gems\nAre scattered everywhere around\n"
+  },
+  {
+   "line": "Lady Ukon\nThough he forsook me,\nFor myself I do not care:\nHe made a promise,\nAnd his life, who is forsworn,\nOh how pitiful that is.\n"
+  },
+  {
+   "line": "Minamoto no Hitoshi\nBamboo growing\nAmong the tangled reeds\nLike my hidden love:\nBut it is too much to bear\nThat I still love her so.\n"
+  },
+  {
+   "line": "Taira no Kanemori\nThough I would hide it,\nIn my face it still appears--\nMy fond, secret love.\nAnd now he questions me:\n\"Is something bothering you?\"\n"
+  },
+  {
+   "line": "Mibu no Tadami\nIt is true I love,\nBut the rumor of my love\nHad gone far and wide,\nWhen people should not have known\nThat I had begun to love.\n"
+  },
+  {
+   "line": "Kiyohara no Motosuke\nOur sleeves were wet with tears\nAs pledges that our love--\nWill last until\nOver Sue's Mount of Pines\nOcean waves are breaking.\n"
+  },
+  {
+   "line": "Fujiwara no Atsutada\nI have met my love.\nWhen I compare this present\nWith feelings of the past,\nMy passion is now as if\nI have never loved before.\n"
+  },
+  {
+   "line": "Fujiwara no Asatada\nIf it should happen\nThat we never met again,\nI would not complain;\nAnd I doubt that she or I\nWould feel that we were left alone.\n"
+  },
+  {
+   "line": "Fujiwara no Koremasa\nSurely there is none\nWho will speak a pitying word\nAbout my lost love.\nNow my folly's fitting end\nIs my own nothingness.\n"
+  },
+  {
+   "line": "Sone no Yoshitada\nLike a mariner\nSailing over Yura's strait\nWith his rudder gone:\nWhere, over the deep of love,\nThe end lies, I do not know.\n"
+  },
+  {
+   "line": "The Monk Egyo\nTo the dim cottage\nOvergrown with thick-leaved vines\nIn its loneliness\nComes the dreary autumn time:\nBut there no people come.\n"
+  },
+  {
+   "line": "Minamoto no Shigeyuki\nLike a driven wave,\nDashed by fierce winds on a rock,\nSo am I: alone\nAnd crushed upon the shore,\nRemembering what has been.\n"
+  },
+  {
+   "line": "Onakatomi no Yoshinobu\nLike the guard's fires\nKept at the imperial gateway--\nBurning through the night,\nDull in ashes through the day--\nIs the love aglow in me.\n"
+  },
+  {
+   "line": "Fujiwara no Yoshitaka\nFor your precious sake,\nOnce my eager life itself\nWas not dear to me.\nBut now it is my heart's desire\nIt may long, long years endure.\n"
+  },
+  {
+   "line": "Fujiwara no Sanekata\nHow can I tell her\nHow fierce my love for her is?\nWill she understand\nThat the love I feel for her\nBurns like Ibuki's fire plant?\n"
+  },
+  {
+   "line": "Fujiwara no Michinobu\nThough I know indeed\nThat the night will come again\nAfter day has dawned,\nStill, in truth, I hate the sight\nOf the morning's coming light.\n"
+  },
+  {
+   "line": "The Mother of Michitsuna\nLying all alone,\nThrough the hours of the night,\nTill the daylight comes:\nCan you realize at all\nThe emptiness of that night?\n"
+  },
+  {
+   "line": "The Mother of Gido Sanshi\nIf remembering me\nWill for him in future years\nBe too difficult,\nIt would be well this very day\nThat I should end my life.\n"
+  },
+  {
+   "line": "Fujiwara no Kinto\nThough the waterfall\nCeased its flowing long ago,\nAnd its sound is stilled,\nYet, in line it er flows,\nAnd in fame may yet be heard.\n"
+  },
+  {
+   "line": "Lady Izumi Shikibu\nSoon my life will close.\nWhen I am beyond this world\nAnd have forgotten it,\nLet me remember only this:\nOne final meeting with you.\n"
+  },
+  {
+   "line": "Lady Murasaki Shikibu\nMeeting on the path:\nBut I cannot clearly know\nIf it was he,\nBecause the midnight moon\nIn a cloud had disappeared.\n"
+  },
+  {
+   "line": "Daini no Sanmi, Lady Kataiko\nAs Mount Arima\nSends its rustling winds across\nIna's bamboo plains,\nI will be just as steadfast\nAnd never will forget you.\n"
+  },
+  {
+   "line": "Lady Akazome Emon\nBetter to have slept\nCare-free, than to keep vain watch\nThrough the passing night,\nTill I saw the lonely moon\nTraverse her descending path.\n"
+  },
+  {
+   "line": "Lady Koshikibu\nBy Oe Mountain\nThe road to Ikuno\nIs far away,\nAnd neither have I beheld\nNor crossed its bridge of heaven.\n"
+  },
+  {
+   "line": "Lady Ise no Osuke\nEight-fold cherry flowers\nThat at Nara--ancient seat\nOf our state--have bloomed,\nIn our nine-fold palace court\nShed their sweet perfume today.\n"
+  },
+  {
+   "line": "Lady Sei Shonagon\nThe rooster's crowing\nIn the middle of the night\nDeceived the hearers;\nBut at Osaka's gateway\nThe guards are never fooled.\n"
+  },
+  {
+   "line": "Fujiwara no Michimasa\nIs there any way\nExcept by a messenger\nTo send these words to you?\nIf I could, I'd come to you\nTo say goodbye forever.\n"
+  },
+  {
+   "line": "Fujiwara no Sadayori\nIn the early dawn\nWhen the mists on Uji River\nSlowly lift and clear,\nFrom the shallows to the deep,\nThe stakes of fishing nets appear.\n"
+  },
+  {
+   "line": "Lady Sagami\nEven when your hate\nMakes me stain my sleeves with tears\nIn cold misery,\nWorse than hate and misery\nIs the loss of my good line.\n"
+  },
+  {
+   "line": "Abbot Gyoson\nOn a mountain slope,\nSolitary, uncompanioned,\nStands a cherry tree.\nExcept for you, lonely friend,\nTo others I am unknown.\n"
+  },
+  {
+   "line": "Lady Suo\nIf I lay my head\nUpon his arm in the dark\nOf a short spring night,\nThis innocent dream pillow\nWill be the death of my good line.\n"
+  },
+  {
+   "line": "Emperor Sanjo\nThough I do not want\nTo live on in this floating world,\nIf I remain here,\nLet me remember only\nThis midnight and this moonrise.\n"
+  },
+  {
+   "line": "The Monk Noin\nBy the wind storm's blast\nFrom Mimuro's mountain slopes\nMaples leaves are torn,\nWhich turn Tatsuta River\nInto a rich brocade.\n"
+  },
+  {
+   "line": "The Monk Ryosen\nIn my loneliness\nI leave my little hut.\nWhen I look around,\nEverywhere it is the same:\nOne lone, darkening autumn eve.\n"
+  },
+  {
+   "line": "Minamoto no Tsunenobu\nWhen the evening comes,\nFrom the rice leaves at my gate,\nGentle knocks are heard,\nAnd, into my round rush-hut,\nEnters autumn's roaming breeze.\n"
+  },
+  {
+   "line": "Lady Kii\nFamous are the waves\nThat break on Takashi beach\nIn noisy arrogance.\nIf I should go near that shore.\nI would only wet my sleeves.\n"
+  },
+  {
+   "line": "Oe no Masafusa\nOn that far mountain\nOn the slope below the peak\nCherries are in flower.\nOh, let the mountain mists\nNot arise to hide the scene.\n"
+  },
+  {
+   "line": "Minamoto no Toshiyori\nIt was not for this\nI prayed at the holy shrine:\nThat she would become\nAs pitiless and as cold\nAs the storms on Hase's hills.\n"
+  },
+  {
+   "line": "Fujiwara no Mototoshi\nAs dew promises\nNew life to the thirsty plant,\nSo did your vow to me.\nYet the year has passed away,\nAnd autumn has come again.\n"
+  },
+  {
+   "line": "Fujiwara no Tadamichi\nOver the wide sea\nAs I sail and look around,\nIt appears to me\nThat the white waves, far away,\nAre the ever shining sky.\n"
+  },
+  {
+   "line": "Emperor Sutoku\nThough a swift stream is\nDivided by a boulder\nIn its headlong flow,\nThough divided, on it rushes,\nAnd at last unites again.\n"
+  },
+  {
+   "line": "Minamoto no Kanemasa\nGuard of Suma Gate,\nFrom your sleep, how many nights\nHave you awakened\nAt the cries of sanderlings,\nFlying from Awaji Island?\n"
+  },
+  {
+   "line": "Fujiwara no Akisuke\nSee how clear and bright\nIs the moonlight finding ways\nThrough the riven clouds\nThat, with drifting autumn wind,\nGracefully float in the sky.\n"
+  },
+  {
+   "line": "Lady Horikawa\nIs it forever\nThat he hopes our love will last?\nHe did not answer.\nAnd now my daylight thoughts\nAre as tangled as my black hair.\n"
+  },
+  {
+   "line": "Fujiwara no Sanesada\nWhen I turned my look\nToward the place where I had heard\nThe cuckoo's call,\nThe only thing I found\nWas the moon of early dawn.\n"
+  },
+  {
+   "line": "The Monk Doin\nThough in deep distress\nThrough your cruel blow, my life\nStill is left to me.\nBut I cannot keep my tears;\nThey break forth from my grief.\n"
+  },
+  {
+   "line": "Fujiwara no Toshinari\nFrom this world I think\nThat there is nowhere to escape.\nI wanted to hide\nIn the mountains' farthest depths;\nBut there I hear the stag's cry.\n"
+  },
+  {
+   "line": "Fujiwara no Kiyosuke\nIf I should live long,\nThen perhaps the present days\nMay be dear to me,\nJust as past time filled with grief\nComes quietly back in thought.\n"
+  },
+  {
+   "line": "The Monk Shun'e\nThrough an unsleeping night\nLongingly I pass the hours,\nWhile the day's dawn lags.\nAnd now the bedroom shutters\nAre keeping light and life from me.\n"
+  },
+  {
+   "line": "The Monk Saigyo\nShould I blame the moon\nFor bringing forth this sadness,\nAs if it pictured grief?\nLifting up my troubled face,\nI regard it through my tears.\n"
+  },
+  {
+   "line": "The Monk Jakuren\nAn autumn eve:\nSee the valley mists arise\nAmong the fir leaves\nThat still hold the dripping wet\nOf the chill day's sudden showers.\n"
+  },
+  {
+   "line": "Attendant to Empress Koka\nAfter one brief night--\nShort as a piece of the reeds\nGrowing in Naniwa bay--\nMust I forever long for him\nWith my whole heart, till life ends?\n"
+  },
+  {
+   "line": "Princess Shokushi\nLike a string of gems\nGrown weak, my life will break now;\nFor if I live on,\nAll I do to hide my love\nMay at last grow weak and fail.\n"
+  },
+  {
+   "line": "Attendant to Empress Inpu\nLet me show him these!\nEven the fishermen's sleeves\nOn Ojima's shores,\nThough wet through and wet again,\nDo not so change their colors.\n"
+  },
+  {
+   "line": "Fujiwara no Yoshitsune\nIn my cold bed,\nDrawing close my folded quilt,\nI sleep alone,\nWhile all through the frosty night\nI hear a cricket's lonely sound.\n"
+  },
+  {
+   "line": "Lady Sanuki\nLike a rock at sea,\nAt ebb-tide hidden from view,\nIs my tear-drenched sleeve:\nNever for a moment dry,\nAnd no one knows it is there.\n"
+  },
+  {
+   "line": "Minamoto no Sanetomo\nIf only our world\nCould be always as it is!\nHow moving the sight\nOf the little fishing boat\nDrawn by ropes along the bank.\n"
+  },
+  {
+   "line": "Fujiwara no Masatsune\nFrom Mount Yoshino\nBlows a chill, autumnal wind.\nIn the deepening night\nThe ancient village shivers:\nSounds of beating cloth I hear.\n"
+  },
+  {
+   "line": "Abbot Jien\nFrom the monastery\nOn Mount Hiei I look out\nOn this world of tears,\nAnd though I am unworthy,\nI shield it with my black sleeves.\n"
+  },
+  {
+   "line": "Fujiwara no Kintsune\nNot the snow of flowers,\nThat the hurrying wild wind whirls\nRound the garden court:\nWhat withers and falls away\nIn this place is I myself.\n"
+  },
+  {
+   "line": "Fujiwara no Sadaie, Fujiwara no Teika\nLike the salt sea-weed,\nBurning in the evening calm.\nOn Matsuo's shore,\nAll my being is aflame,\nAwaiting her who does not come.\n"
+  },
+  {
+   "line": "Fujiwara no Ietaka\nTo Nara's brook comes\nEvening, and the rustling winds\nStir the oak-trees' leaves.\nNot a sign of summer left\nBut the sacred bathing there.\n"
+  },
+  {
+   "line": "Emperor Gotoba\nFor some men I grieve;\nSome men are hateful to me;\nAnd this wretched world\nTo me, with all my sadness,\nIs a place of misery.\n"
+  },
+  {
+   "line": "Emperor Juntoku\nIn this ancient house,\nPaved with a hundred stones,\nFerns grow in the eaves;\nBut numerous as they are,\nMy old memories are more.\n"
+  }
+ ]
+}
