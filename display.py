@@ -1,15 +1,18 @@
 import json, os, sys, time
 
-def print_gradual (str, timeout): # Print character by character with a time delay
+def print_gradual(str, timeout): # Print character by character with a time delay
     for c in str:
-        sys.stdout.write (c)
-        sys.stdout.flush ()
-        time.sleep (timeout)
+        sys.stdout.write(c)
+        sys.stdout.flush()
+        time.sleep(timeout)
 
-with open ("ogura.json", "r") as p:
-    data = json.load (p)
+with open("ogura.json", "r") as p:
+    data = json.load(p)
 
-print_gradual (data["japanese"][0]["line"], 0.05)
-print ("\n")
-print_gradual (data["english"][0]["line"], 0.05)
-print ("\n")
+for i in range(100):
+    print_gradual(data["japanese"][i]["line"], 0.05)
+    print()
+    print_gradual(data["romaji"][i]["line"], 0.03)
+    print()
+    print_gradual(data["english"][i]["line"], 0.03)
+    print()
