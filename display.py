@@ -9,7 +9,7 @@ def print_gradual (str, timeout): # Print character by character with a time del
 with open ("ogura.json", "r") as p:
     data = json.load (p)
 
-print_gradual (data["japanese"][0]["line"], 0.1)
+print_gradual (data["japanese"][0]["line"], 0.05)
 print ("\n")
 print_gradual (data["english"][0]["line"], 0.05)
 print ("\n")
