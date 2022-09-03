@@ -1,4 +1,4 @@
-# OguraPoemsGenerator
+# oguraPoemsGenerator
 Quote generator written completely in python that displays a random poem from the Ogura Hyakunin Isshu (Collection of 100 japanese poems by the Ogura poets).
 
 ## Pre-requisites
