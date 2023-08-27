@@ -9,7 +9,7 @@ def print_gradual(str, timeout): # Print character by character with a time dela
         sys.stdout.flush()
         time.sleep(timeout)
 
-with open("ogura.json", "r") as p:
+with open("./ogura.json", "r") as p:
     data = json.load(p)
 
 i = random.randint(0, 99)
