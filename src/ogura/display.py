@@ -1,4 +1,4 @@
-import json, os, sys, time, random
+import json, sys, time, random, pkg_resources
 
 def bold(str): # Returns str in bold
     return "\033[1m" + str + "\033[0m"
@@ -9,7 +9,7 @@ def print_gradual(str, timeout): # Print character by character with a time dela
         sys.stdout.flush()
         time.sleep(timeout)
 
-with open(os.getcwd() + "/ogura.json", "r") as p:
+with open(pkg_resources.resource_filename(__name__, "ogura.json"), "r") as p:
     data = json.load(p)
 
 i = random.randint(0, 99)
