@@ -4,12 +4,20 @@ Quote generator written completely in python that displays a random poem from th
 ## Pre-requisites
 `python` & `pip`.
 
-## Installation
-  - Create a [venv](https://docs.python.org/3/library/venv.html) and use pip to install the package.
-```
-pip install -i https://test.pypi.org/simple/ ogura
-```
-
 ## Features
 - Displays poem in japanese, romaji (romanized spelling in english) and the english translation.
 - Displays the text gradually letter by letter.
+
+## Installation
+  - Create a [venv](https://docs.python.org/3/library/venv.html) and use pip to install the package.
+```
+pip install ogura
+```
+  - Then run using either,
+```
+ogura
+```
+(or)
+```
+python -m ogura
+```

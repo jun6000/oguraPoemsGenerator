@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "ogura"
-version = "0.0.5"
+version = "0.0.6"
 authors = [
     { name="Arjun Vishanth", email="arjunvishanth@gmail.com" },
 ]
@@ -16,6 +16,9 @@ classifiers = [
     "License :: OSI Approved :: MIT License",
     "Operating System :: OS Independent",
 ]
+
+[project.scripts]
+ogura = "ogura:main"
 
 [project.utils]
 "Homepage" = "https://github.com/jun6000/ogurapoemsgenerator"
